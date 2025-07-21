@@ -1,0 +1,4 @@
+[dependencies]
+base = "0.13.7"
+motoko-hash-map = "https://github.com/ZhenyaUsenko/motoko-hash-map#master@94d509f97d70ac03828eee3064d939a3259eab78"
+StableBuffer = "https://github.com/canscale/StableBuffer#master@acdde6bb5b939227997cebdbb8919d2e6da8691c"
